@@ -12,7 +12,7 @@
             <RowDefinition />
             <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
-        <Label Grid.Row="0" Content="Count string length" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold"/>
+        <Label Grid.Row="0" Content="Count Character Frequency" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold"/>
         <StackPanel Grid.Row="1" Orientation="Vertical">
             <TextBox TextWrapping="Wrap"
                      AcceptsReturn="True"
