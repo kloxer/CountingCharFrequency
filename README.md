@@ -2,7 +2,7 @@ Created a program to count character frequency of a given input.
 
 ![countCharFrequencyScreen](https://github.com/user-attachments/assets/fa3fd02d-2559-403b-b513-15ebdb9179dc)
 
-Here is an example of an input: 
+Here is an example of an output: 
 ![OutputResult](https://github.com/user-attachments/assets/3b6625e1-9230-43ed-99d3-ef8cfdb32578)
 
 
