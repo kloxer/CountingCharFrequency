@@ -1,4 +1,4 @@
-Created a program to count character frequency in a screen.
+Created a program to count character frequency of a given input.
 
 ![countCharFrequencyScreen](https://github.com/user-attachments/assets/fa3fd02d-2559-403b-b513-15ebdb9179dc)
 
